@@ -5,3 +5,4 @@
 - [Maven](./Maven/maven.md)
 - [WSL](./wsl/wsl.md)
 - [Google Cloud VM](./GoogleCloud/gcp.md)
+- [Kafka](./kafka/kafka.md)
